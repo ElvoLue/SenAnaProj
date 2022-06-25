@@ -14,3 +14,5 @@
 ## The aspect extraction was mostly done by already written rules. References are in the source code ##
 
 
+#Note: The include folder is outside the project scope because we cannot push the entire data to git, so we did not include it in the project repository and left it 'outside'#
+
