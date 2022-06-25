@@ -1,0 +1,332 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2638
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fnil\fcharset0 Menlo-Regular;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;\red255\green255\blue255;\red143\green216\blue255;
+}
+{\*\expandedcolortbl;;\cssrgb\c0\c0\c0;\cssrgb\c100000\c100000\c99926\c0;\cssrgb\c62277\c87558\c100000;
+}
+\paperw11900\paperh16840\margl1440\margr1440\vieww11520\viewh8400\viewkind0
+\deftab720
+\pard\pardeftab720\partightenfactor0
+
+\f0\fs24 \cf2 \cb3 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec4 ___________________________________________________________________________________\
+___________________________________________________________________________________\
+___________________________________________________________________________________\
+sentiment analysis for:  Britannia International Hotel Canary Wharf \
+\
+___________________________________________________________________________________\
+5 most mentioned positive aspects as pre-labled (aspect/count): \
+ [('room', 1047), ('location', 946), ('staff', 839), ('hotel', 315), ('view', 314)] \
+\
+5 most mentioned negative aspects as pre-labled (aspect/count): \
+ [('room', 975), ('bed', 576), ('staff', 501), ('hotel', 474), ('breakfast', 305)] \
+\
+___________________________________________________________________________________\
+5 most mentioned aspects in total (aspect/count): \
+ [('room', 2022), ('staff', 1340), ('location', 1007), ('bed', 814), ('hotel', 789)] \
+\
+___________________________________________________________________________________\
+5 most mentioned negative aspects by our own sentAna (aspect/count): \
+ [('room', 185), ('bed', 154), ('staff', 153), ('hotel', 137), ('beds', 119)] \
+\
+5 most mentioned positive aspects by our own sentAna  (aspect/count): \
+ [('room', 1174), ('staff', 784), ('location', 710), ('hotel', 483), ('bed', 317)] \
+\
+___________________________________________________________________________________\
+Mean sentiment score for average aspect room:  0.13165299564721614\
+Mean sentiment score for average aspect staff:  0.14548336526861122\
+Mean sentiment score for average aspect property:  0.03196441760593247\
+Mean sentiment score for average aspect food:  0.10711360439341847\
+Mean sentiment score for average aspect location:  0.4358853015514519\
+___________________________________________________________________________________\
+___________________________________________________________________________________\
+___________________________________________________________________________________\
+___________________________________________________________________________________\
+___________________________________________________________________________________\
+___________________________________________________________________________________\
+sentiment analysis for:  Strand Palace Hotel \
+\
+___________________________________________________________________________________\
+5 most mentioned positive aspects as pre-labled (aspect/count): \
+ [('location', 1755), ('staff', 1283), ('room', 934), ('breakfast', 433), ('hotel', 330)] \
+\
+5 most mentioned negative aspects as pre-labled (aspect/count): \
+ [('room', 1531), ('bed', 336), ('breakfast', 197), ('hotel', 172), ('staff', 168)] \
+\
+___________________________________________________________________________________\
+5 most mentioned aspects in total (aspect/count): \
+ [('room', 2465), ('location', 1787), ('staff', 1451), ('breakfast', 630), ('bed', 614)] \
+\
+___________________________________________________________________________________\
+5 most mentioned negative aspects by our own sentAna (aspect/count): \
+ [('room', 444), ('Room', 118), ('rooms', 107), ('bed', 105), ('bathroom', 54)] \
+\
+5 most mentioned positive aspects by our own sentAna  (aspect/count): \
+ [('location', 1300), ('room', 1235), ('staff', 1041), ('Location', 470), ('hotel', 399)] \
+\
+___________________________________________________________________________________\
+Mean sentiment score for average aspect room:  0.10205935166180288\
+Mean sentiment score for average aspect staff:  0.301448994708995\
+Mean sentiment score for average aspect property:  0.07853423537247069\
+Mean sentiment score for average aspect food:  0.34344334608843446\
+Mean sentiment score for average aspect location:  0.5404533667652461\
+___________________________________________________________________________________\
+___________________________________________________________________________________\
+___________________________________________________________________________________\
+___________________________________________________________________________________\
+___________________________________________________________________________________\
+___________________________________________________________________________________\
+sentiment analysis for:  Park Plaza Westminster Bridge London \
+\
+___________________________________________________________________________________\
+5 most mentioned positive aspects as pre-labled (aspect/count): \
+ [('location', 1429), ('room', 1198), ('staff', 1135), ('hotel', 557), ('bed', 346)] \
+\
+5 most mentioned negative aspects as pre-labled (aspect/count): \
+ [('room', 642), ('staff', 302), ('breakfast', 236), ('hotel', 228), ('bed', 130)] \
+\
+___________________________________________________________________________________\
+5 most mentioned aspects in total (aspect/count): \
+ [('room', 1840), ('location', 1466), ('staff', 1437), ('hotel', 785), ('bed', 476)] \
+\
+___________________________________________________________________________________\
+5 most mentioned negative aspects by our own sentAna (aspect/count): \
+ [('room', 149), ('staff', 87), ('breakfast', 51), ('bed', 46), ('service', 45)] \
+\
+5 most mentioned positive aspects by our own sentAna  (aspect/count): \
+ [('location', 1160), ('room', 1033), ('staff', 988), ('hotel', 654), ('rooms', 359)] \
+\
+___________________________________________________________________________________\
+Mean sentiment score for average aspect room:  0.2542866269283928\
+Mean sentiment score for average aspect staff:  0.2861955049915041\
+Mean sentiment score for average aspect property:  0.20146854622523505\
+Mean sentiment score for average aspect food:  0.27015429215069514\
+Mean sentiment score for average aspect location:  0.5421182961032852\
+___________________________________________________________________________________\
+___________________________________________________________________________________\
+___________________________________________________________________________________\
+___________________________________________________________________________________\
+___________________________________________________________________________________\
+___________________________________________________________________________________\
+sentiment analysis for:  Copthorne Tara Hotel London Kensington \
+\
+___________________________________________________________________________________\
+5 most mentioned positive aspects as pre-labled (aspect/count): \
+ [('staff', 1308), ('location', 1049), ('room', 830), ('breakfast', 344), ('hotel', 289)] \
+\
+5 most mentioned negative aspects as pre-labled (aspect/count): \
+ [('room', 756), ('bed', 332), ('staff', 168), ('hotel', 156), ('breakfast', 145)] \
+\
+___________________________________________________________________________________\
+5 most mentioned aspects in total (aspect/count): \
+ [('room', 1586), ('staff', 1476), ('location', 1071), ('bed', 558), ('breakfast', 489)] \
+\
+___________________________________________________________________________________\
+5 most mentioned negative aspects by our own sentAna (aspect/count): \
+ [('room', 102), ('bed', 92), ('rooms', 49), ('staff', 44), ('service', 43)] \
+\
+5 most mentioned positive aspects by our own sentAna  (aspect/count): \
+ [('staff', 1059), ('room', 880), ('location', 806), ('Staff', 352), ('hotel', 339)] \
+\
+___________________________________________________________________________________\
+Mean sentiment score for average aspect room:  0.1692553070193692\
+Mean sentiment score for average aspect staff:  0.27985035695054966\
+Mean sentiment score for average aspect property:  0.0683930606301776\
+Mean sentiment score for average aspect food:  0.27821498810240475\
+Mean sentiment score for average aspect location:  0.501280698720166\
+___________________________________________________________________________________\
+___________________________________________________________________________________\
+___________________________________________________________________________________\
+___________________________________________________________________________________\
+___________________________________________________________________________________\
+___________________________________________________________________________________\
+sentiment analysis for:  DoubleTree by Hilton Hotel London Tower of London \
+\
+___________________________________________________________________________________\
+5 most mentioned positive aspects as pre-labled (aspect/count): \
+ [('staff', 1005), ('location', 881), ('room', 738), ('breakfast', 398), ('hotel', 377)] \
+\
+5 most mentioned negative aspects as pre-labled (aspect/count): \
+ [('room', 458), ('breakfast', 188), ('staff', 153), ('bar', 98), ('bed', 95)] \
+\
+___________________________________________________________________________________\
+5 most mentioned aspects in total (aspect/count): \
+ [('room', 1196), ('staff', 1158), ('location', 905), ('breakfast', 586), ('bar', 458)] \
+\
+___________________________________________________________________________________\
+5 most mentioned negative aspects by our own sentAna (aspect/count): \
+ [('room', 103), ('breakfast', 56), ('staff', 47), ('Room', 36), ('Breakfast', 34)] \
+\
+5 most mentioned positive aspects by our own sentAna  (aspect/count): \
+ [('staff', 845), ('location', 711), ('room', 633), ('bar', 401), ('hotel', 379)] \
+\
+___________________________________________________________________________________\
+Mean sentiment score for average aspect room:  0.2507159239994694\
+Mean sentiment score for average aspect staff:  0.30984032985793586\
+Mean sentiment score for average aspect property:  0.21438847708894893\
+Mean sentiment score for average aspect food:  0.32354026974397426\
+Mean sentiment score for average aspect location:  0.5615735863200754\
+___________________________________________________________________________________\
+___________________________________________________________________________________\
+___________________________________________________________________________________\
+___________________________________________________________________________________\
+___________________________________________________________________________________\
+___________________________________________________________________________________\
+sentiment analysis for:  Grand Royale London Hyde Park \
+\
+___________________________________________________________________________________\
+5 most mentioned positive aspects as pre-labled (aspect/count): \
+ [('staff', 1182), ('location', 856), ('room', 689), ('hotel', 350), ('breakfast', 329)] \
+\
+5 most mentioned negative aspects as pre-labled (aspect/count): \
+ [('room', 1769), ('bathroom', 257), ('bed', 177), ('hotel', 162), ('staff', 155)] \
+\
+___________________________________________________________________________________\
+5 most mentioned aspects in total (aspect/count): \
+ [('room', 2458), ('staff', 1337), ('location', 873), ('hotel', 512), ('breakfast', 409)] \
+\
+___________________________________________________________________________________\
+5 most mentioned negative aspects by our own sentAna (aspect/count): \
+ [('room', 468), ('rooms', 210), ('Room', 181), ('Rooms', 158), ('bathroom', 90)] \
+\
+5 most mentioned positive aspects by our own sentAna  (aspect/count): \
+ [('staff', 955), ('room', 924), ('location', 675), ('hotel', 398), ('Staff', 317)] \
+\
+___________________________________________________________________________________\
+Mean sentiment score for average aspect room:  0.06497310281105072\
+Mean sentiment score for average aspect staff:  0.341477315002706\
+Mean sentiment score for average aspect property:  0.2860655035367893\
+Mean sentiment score for average aspect food:  0.40815802646469873\
+Mean sentiment score for average aspect location:  0.47585744996823803\
+___________________________________________________________________________________\
+___________________________________________________________________________________\
+___________________________________________________________________________________\
+___________________________________________________________________________________\
+___________________________________________________________________________________\
+___________________________________________________________________________________\
+sentiment analysis for:  Holiday Inn London Kensington \
+\
+___________________________________________________________________________________\
+5 most mentioned positive aspects as pre-labled (aspect/count): \
+ [('staff', 896), ('location', 832), ('room', 537), ('bed', 291), ('hotel', 263)] \
+\
+5 most mentioned negative aspects as pre-labled (aspect/count): \
+ [('room', 1294), ('staff', 229), ('bed', 216), ('bathroom', 150), ('breakfast', 122)] \
+\
+___________________________________________________________________________________\
+5 most mentioned aspects in total (aspect/count): \
+ [('room', 1831), ('staff', 1125), ('location', 843), ('bed', 507), ('hotel', 374)] \
+\
+___________________________________________________________________________________\
+5 most mentioned negative aspects by our own sentAna (aspect/count): \
+ [('room', 385), ('Room', 108), ('rooms', 96), ('staff', 76), ('Rooms', 75)] \
+\
+5 most mentioned positive aspects by our own sentAna  (aspect/count): \
+ [('room', 796), ('staff', 750), ('location', 649), ('hotel', 287), ('bed', 280)] \
+\
+___________________________________________________________________________________\
+Mean sentiment score for average aspect room:  0.07692720104840745\
+Mean sentiment score for average aspect staff:  0.26921332972582973\
+Mean sentiment score for average aspect property:  0.14946915987238577\
+Mean sentiment score for average aspect food:  0.25513798163400553\
+Mean sentiment score for average aspect location:  0.5239123261244799\
+___________________________________________________________________________________\
+___________________________________________________________________________________\
+___________________________________________________________________________________\
+___________________________________________________________________________________\
+___________________________________________________________________________________\
+___________________________________________________________________________________\
+sentiment analysis for:  Hilton London Metropole \
+\
+___________________________________________________________________________________\
+5 most mentioned positive aspects as pre-labled (aspect/count): \
+ [('staff', 703), ('location', 547), ('room', 473), ('breakfast', 237), ('bed', 210)] \
+\
+5 most mentioned negative aspects as pre-labled (aspect/count): \
+ [('room', 855), ('bed', 214), ('staff', 171), ('hotel', 160), ('bathroom', 112)] \
+\
+___________________________________________________________________________________\
+5 most mentioned aspects in total (aspect/count): \
+ [('room', 1328), ('staff', 874), ('location', 568), ('bed', 424), ('hotel', 365)] \
+\
+___________________________________________________________________________________\
+5 most mentioned negative aspects by our own sentAna (aspect/count): \
+ [('room', 202), ('bed', 55), ('rooms', 53), ('service', 46), ('staff', 42)] \
+\
+5 most mentioned positive aspects by our own sentAna  (aspect/count): \
+ [('room', 683), ('staff', 627), ('location', 405), ('hotel', 273), ('rooms', 205)] \
+\
+___________________________________________________________________________________\
+Mean sentiment score for average aspect room:  0.10360508330364053\
+Mean sentiment score for average aspect staff:  0.2480485588145314\
+Mean sentiment score for average aspect property:  0.06704964342361039\
+Mean sentiment score for average aspect food:  0.2828726115838183\
+Mean sentiment score for average aspect location:  0.47441091674765196\
+___________________________________________________________________________________\
+___________________________________________________________________________________\
+___________________________________________________________________________________\
+___________________________________________________________________________________\
+___________________________________________________________________________________\
+___________________________________________________________________________________\
+sentiment analysis for:  Millennium Gloucester Hotel London \
+\
+___________________________________________________________________________________\
+5 most mentioned positive aspects as pre-labled (aspect/count): \
+ [('location', 880), ('staff', 658), ('room', 568), ('bed', 243), ('hotel', 203)] \
+\
+5 most mentioned negative aspects as pre-labled (aspect/count): \
+ [('room', 741), ('staff', 137), ('hotel', 113), ('bed', 107), ('breakfast', 97)] \
+\
+___________________________________________________________________________________\
+5 most mentioned aspects in total (aspect/count): \
+ [('room', 1309), ('location', 893), ('staff', 795), ('bed', 350), ('hotel', 316)] \
+\
+___________________________________________________________________________________\
+5 most mentioned negative aspects by our own sentAna (aspect/count): \
+ [('room', 155), ('service', 40), ('staff', 40), ('Room', 37), ('hotel', 31)] \
+\
+5 most mentioned positive aspects by our own sentAna  (aspect/count): \
+ [('room', 699), ('location', 685), ('staff', 555), ('hotel', 224), ('rooms', 219)] \
+\
+___________________________________________________________________________________\
+Mean sentiment score for average aspect room:  0.12419744236518358\
+Mean sentiment score for average aspect staff:  0.2485428211467598\
+Mean sentiment score for average aspect property:  0.10674133191649118\
+Mean sentiment score for average aspect food:  0.2759244934532954\
+Mean sentiment score for average aspect location:  0.5080973285601056\
+___________________________________________________________________________________\
+___________________________________________________________________________________\
+___________________________________________________________________________________\
+___________________________________________________________________________________\
+___________________________________________________________________________________\
+___________________________________________________________________________________\
+sentiment analysis for:  Intercontinental London The O2 \
+\
+___________________________________________________________________________________\
+5 most mentioned positive aspects as pre-labled (aspect/count): \
+ [('staff', 1245), ('room', 672), ('hotel', 493), ('bed', 488), ('view', 429)] \
+\
+5 most mentioned negative aspects as pre-labled (aspect/count): \
+ [('room', 138), ('bar', 114), ('price', 112), ('breakfast', 110), ('staff', 100)] \
+\
+___________________________________________________________________________________\
+5 most mentioned aspects in total (aspect/count): \
+ [('staff', 1345), ('room', 810), ('hotel', 581), ('bed', 510), ('view', 471)] \
+\
+___________________________________________________________________________________\
+5 most mentioned negative aspects by our own sentAna (aspect/count): \
+ [('service', 40), ('staff', 30), ('hotel', 28), ('prices', 25), ('Breakfast', 25)] \
+\
+5 most mentioned positive aspects by our own sentAna  (aspect/count): \
+ [('staff', 977), ('hotel', 491), ('room', 483), ('location', 331), ('Staff', 327)] \
+\
+___________________________________________________________________________________\
+Mean sentiment score for average aspect room:  0.3653553807938817\
+Mean sentiment score for average aspect staff:  0.36743848997823003\
+Mean sentiment score for average aspect property:  0.2536552997267283\
+Mean sentiment score for average aspect food:  0.31183156481299523\
+Mean sentiment score for average aspect location:  0.5238484668609336\
+___________________________________________________________________________________\
+___________________________________________________________________________________\
+___________________________________________________________________________________\
+}
